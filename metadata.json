@@ -1,0 +1,6 @@
+{
+  "name": "ASM & Threat Intelligence Master Report",
+  "description": "A4 printable digital security intelligence report covering Attack Surface Monitoring, Data Leaks, Brand Defense, and Ransomware Intel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
